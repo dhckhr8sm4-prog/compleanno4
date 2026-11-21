@@ -1,0 +1,2 @@
+Cartella delle immagini del sito.
+stemma.png = stemma mostrato nell'intestazione (per cambiarlo, sostituisci il file mantenendo lo stesso nome).
